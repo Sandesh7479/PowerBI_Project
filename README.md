@@ -16,9 +16,6 @@ In this project, you’ll learn how to:
 
 ---
 
-## 🎥 Full Video Tutorial
-
-📺 [Watch the Full Tutorial Here](https://youtu.be/Gu583PXJDpY)
 
 ---
 
